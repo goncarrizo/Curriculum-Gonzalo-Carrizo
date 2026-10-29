@@ -1,0 +1,61 @@
+<img src="image_1.png" alt="Gonzalo Carrizo" width="110" height="110" style="float: right; border-radius: 50%; object-fit: cover; margin-left: 20px; border: 2px solid #800020;" />
+
+# Gonzalo Carrizo
+
+Rosario, Santa Fe, Argentina | +54 9 341 276 4680 | gonzacarrizo123456@gmail.com | GitHub: goncarrizo | www.linkedin.com/in/gonzalo-carrizo-6061703b0
+
+## Perfil Profesional
+
+Estudiante avanzado de Ingeniería en Sistemas e Información (UTN Rosario) con sólida experiencia en soporte técnico IT (Niveles 1 y 2), administración de redes institucionales y gestión de incidentes. Orientado a la resolución eficiente de problemas de hardware/software, diagnóstico avanzado de conectividad (LAN/WAN, TCP/IP) y la comunicación asertiva con usuarios para garantizar la continuidad operativa de los sistemas.
+
+## Experiencia Laboral
+
+### Soporte Técnico y Mantenimiento de Redes
+
+**Fiscalía de Rosario** | *Julio 2026 – Presente*
+- Provisión de soporte técnico integral de Nivel 1 y Nivel 2 a usuarios de la institución, asegurando la operatividad de los equipos de trabajo.
+- Operación y resolución de problemas en entornos basados en **Linux Ubuntu**, utilizando herramientas de consola para la gestión de servicios.
+- Mantenimiento preventivo y correctivo de hardware corporativo, incluyendo estaciones de trabajo, impresoras y periféricos.
+- Aplicación de comunicación asertiva para el asesoramiento de usuarios y la escalación de incidentes críticos.
+
+### Mantenimiento y Soporte de Redes Institucionales
+
+**Universidad Tecnológica Nacional (UTN)** | *Abril 2026 – Presente*
+- Administración, configuración y monitoreo de la infraestructura de red de la sede educativa.
+- Gestión, seguimiento y resolución de tickets de incidentes mediante la plataforma **iTop** (ITSM).
+- Diagnóstico avanzado y resolución de problemas de red, garantizando la estabilidad de las comunicaciones internas.
+- Detección proactiva de fallas de red y ejecución de diagnósticos precisos para restaurar la conectividad institucional.
+- Colaboración directa con personal administrativo y docente para la identificación ágil de requerimientos técnicos.
+
+## Proyectos Destacados
+
+### Sistema de Gestión de Aerolíneas (Arquitectura MVC)
+
+**Proyecto Académico - UTN (Entornos Gráficos)**
+
+- Desarrollo de un sistema web integral aplicando el patrón arquitectónico MVC con **PHP** (sin frameworks) y persistencia en **MySQL** mediante XAMPP.
+- Implementación de control de acceso basado en roles (Admin, CEO, Cliente) mediante el manejo seguro de sesiones en PHP.
+- Diseño de interfaces responsivas utilizando HTML5, CSS3, Bootstrap, JavaScript y jQuery.
+- Creación de módulos ABMC completos, funcionalidad de búsqueda de vuelos con paginación, y un sistema de reservas (creación/cancelación).
+
+### Sistema de Gestión Penitenciaria Full Stack
+
+**Proyecto Académico - UTN (Desarollo de Software)**
+
+- Construcción de una aplicación web estructurada con un frontend en **Angular y TypeScript**, respaldado por un backend robusto en **Java con Spring Boot** y bases de datos **MySQL**.
+- Programación de un módulo de administración de usuarios con escalafón de permisos, registro de bitácora de operaciones y exportación de logs.
+- Integración exitosa con sistemas externos a través de REST APIs y control riguroso de versiones del código fuente implementando la metodología **Git Flow**.
+
+## Educación
+
+- **Ingeniería en Sistemas e Información** | Universidad Tecnológica Nacional - Sede Rosario | *2021 - Actualidad*
+- **Bachiller en Ciencias Naturales** | E.E.S.O.P.I N°8053 "Santísimo Rosario" | *2013 - 2018*
+
+## Habilidades Técnicas
+
+- **Soporte y Sistemas Operativos:** Soporte IT (Niveles 1 y 2), Linux Ubuntu, Windows, Mantenimiento de Hardware (PCs e Impresoras).
+- **Redes e Infraestructura:** TCP/IP, LAN/WAN, DNS/DHCP, Diagnóstico de conectividad, Modelo OSI.
+- **Herramientas de Gestión y Metodologías:** iTop (Gestor de incidentes), Relevamiento funcional, Documentación de requerimientos, Git/GitHub.
+- **Desarrollo y Bases de Datos (Adicionales):** Python, Java/SpringBoot, Angular, HTML5, PHP, MySQL, MongoDB, APIs REST.
+- **Habilidades Blandas:** Comunicación asertiva, Resolución de problemas, Trabajo en equipo, Gestión de incidentes.
+
